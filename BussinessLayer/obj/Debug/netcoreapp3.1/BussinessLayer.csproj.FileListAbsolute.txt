@@ -1,0 +1,15 @@
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.deps.json
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.pdb
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfo.cs
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CopyComplete
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.pdb

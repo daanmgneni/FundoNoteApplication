@@ -1,0 +1,10 @@
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.AssemblyReference.cache
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Dhanashree\source\repos\FunDoNote1 Application\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
