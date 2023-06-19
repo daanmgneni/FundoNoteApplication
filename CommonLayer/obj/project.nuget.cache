@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eeYsbbK1PMROAiK7AS10g/KhGeesaVeIqENc08NrxhXNCByE5/xrmEdXNqYl4kwAw/nb2OEORpI5k8YFk7H56g==",
+  "success": true,
+  "projectFilePath": "D:\\Pene4\\FundoNoteApplication (3)\\FundoNoteApplication\\CommonLayer\\CommonLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dhanashree\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
