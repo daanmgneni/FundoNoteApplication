@@ -5,6 +5,23 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20230617101106_Collaborator.cs" />
+    <Compile Remove="Migrations\20230617101106_Collaborator.Designer.cs" />
+    <Compile Remove="Migrations\20230617102007_Collaborator.cs" />
+    <Compile Remove="Migrations\20230617102007_Collaborator.Designer.cs" />
+    <Compile Remove="Migrations\20230617102120_Collaborator.cs" />
+    <Compile Remove="Migrations\20230617102120_Collaborator.Designer.cs" />
+    <Compile Remove="Migrations\20230619053450_Collaborator.cs" />
+    <Compile Remove="Migrations\20230619053450_Collaborator.Designer.cs" />
+    <Compile Remove="Migrations\20230619053644_Collaborator1.cs" />
+    <Compile Remove="Migrations\20230619053644_Collaborator1.Designer.cs" />
+    <Compile Remove="Migrations\20230621061517_Label.cs" />
+    <Compile Remove="Migrations\20230621061517_Label.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CloudinaryDotNet" Version="1.21.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.0">
       <PrivateAssets>all</PrivateAssets>
@@ -15,6 +32,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Services.Client" Version="16.205.1" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.30.1" />
   </ItemGroup>
 

@@ -19,10 +19,13 @@ namespace FundoNoteApplication.Controllers
     public class UserController : ControllerBase
     {
         private readonly IUserBL userBL;
+        private readonly ILogger<UserController> logger;
 
-        public UserController(IUserBL userBL)
+
+        public UserController(IUserBL userBL, ILogger<UserController> logger)
         {
             this.userBL = userBL;
+            this.logger = logger;
         }
         [HttpPost]
         [Route("register")]
@@ -33,11 +36,13 @@ namespace FundoNoteApplication.Controllers
                 var result = userBL.Register(userRegistration);
                 if (result != null)
                 {
+                    logger.LogInformation("Registration Successful");
                     return this.Ok(new { sucess = true, msg = "Registration Sucessfull", data = result });
 
                 }
                 else
                 {
+                    logger.LogWarning("Registration UnSuccessful");
                     return this.BadRequest(new { sucess = false, msg = "Registration UnSucessfull" });
 
                 }
@@ -57,17 +62,15 @@ namespace FundoNoteApplication.Controllers
             try
             {
                 var reg = this.userBL.Login(LoginRegistration);
-                //if (!ModelState.IsValid)
-                //{
-                //    return BadRequest(ModelState);
-                //}
+             
                 if (reg != null)
                 {
-           
+                    logger.LogInformation("Login Successful");
                     return this.Ok(new { Success = true, message = "Login Sucessfull", Data = reg });
                 }
                 else
                 {
+                    logger.LogWarning("Login UnSuccessful");
                     return this.BadRequest(new { Success = false, message = "Login Unsucessfull" });
                 }
             }
@@ -88,12 +91,12 @@ namespace FundoNoteApplication.Controllers
                 if (reg != null)
 
                 {
-                    
+                    logger.LogInformation("Successfully send");
                     return this.Ok(new { Success = true, message = "Token sent Sucessfully please check your mail" ,Data = reg});
                 }
                 else
                 {
-                
+                    logger.LogWarning("UnSuccessful to send token to the Mail");
                     return this.BadRequest(new { Success = false, message = "unable to send token to mail" });
                 }
             }
@@ -116,11 +119,12 @@ namespace FundoNoteApplication.Controllers
                // if (userBL.ResetPassword(email, password, confirmPassword))
                 if(result != null)
                 {
-                   
+                    logger.LogInformation("Reset Password Succesfull");
                     return Ok(new { success = true, message = "Password Reset Successful", Data = result });
                 }
                 else
                 {
+                    logger.LogWarning("Rest Password Unsucessfull");
                     return BadRequest(new { success = false, message = "Password Reset Unsuccessful" });
                 }
             }
@@ -140,10 +144,13 @@ namespace FundoNoteApplication.Controllers
                 var result = this.userBL.GetAllUsers();
                 if(result != null)
                 {
+                    logger.LogInformation("Succesfull");
                     return Ok(new { success = true, message = "Successful", Data = result });
                 }
                 else
                 {
+                    logger.LogWarning("Unsucessfull");
+
                     return BadRequest(new { success = false, message = "There are No User Present" });
                 }
             }
@@ -163,10 +170,12 @@ namespace FundoNoteApplication.Controllers
                 var result = this.userBL.GetAllUsersbyID(userid);
                 if (result != null)
                 {
+                    logger.LogInformation("Succesfull");
                     return Ok(new { success = true, message = "Successful", Data = result });
                 }
                 else
                 {
+                    logger.LogWarning("Unsucessfull");
                     return BadRequest(new { success = false, message = "There are No User Present" });
                 }
             }

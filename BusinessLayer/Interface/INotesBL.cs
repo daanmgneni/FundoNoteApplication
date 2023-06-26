@@ -1,5 +1,6 @@
 ﻿using CommonLayer.Models;
 using DataLayer.DB;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -16,5 +17,8 @@ namespace BusinessLayer.Interface
         public bool Trashed(long NoteID);
         public bool Archieved(long NoteID);
         public NotesEntity ColorNote(long NoteId, string color);
+        public string Imaged(long NoteID, IFormFile image);
+        public IEnumerable<NotesEntity> Search(string query);
+        public List<NotesEntity> GetAllNote();
     }
 }

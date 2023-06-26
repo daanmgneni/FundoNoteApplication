@@ -8,16 +8,6 @@ D:\CFP\FundoNoteApplication\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.Asse
 D:\CFP\FundoNoteApplication\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
 D:\CFP\FundoNoteApplication\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
 D:\CFP\FundoNoteApplication\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.AssemblyReference.cache
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb

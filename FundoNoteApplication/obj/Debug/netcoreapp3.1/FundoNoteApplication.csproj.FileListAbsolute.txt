@@ -81,99 +81,43 @@ D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Swashbu
 D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\CFP\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\FundoNoteApplication.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\FundoNoteApplication.exe
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\FundoNoteApplication.deps.json
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\FundoNoteApplication.runtimeconfig.json
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\FundoNoteApplication.runtimeconfig.dev.json
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\FundoNoteApplication.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\FundoNoteApplication.pdb
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Experimental.System.Messaging.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\BusinessLayer.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\CommonLayer.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\DataLayer.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\CommonLayer.pdb
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\DataLayer.pdb
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\FundoNoteApplication.csproj.AssemblyReference.cache
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\FundoNoteApplication.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\FundoNoteApplication.AssemblyInfoInputs.cache
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\FundoNoteApplication.AssemblyInfo.cs
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\FundoNoteApplication.csproj.CoreCompileInputs.cache
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\FundoNoteApplication.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\FundoNoteApplication.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\staticwebassets\FundoNoteApplication.StaticWebAssets.Manifest.cache
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\staticwebassets\FundoNoteApplication.StaticWebAssets.Pack.cache
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.FundoNoteApplication.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.FundoNoteApplication.props
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.FundoNoteApplication.props
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.FundoNoteApplication.props
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\FundoNoteApplication.RazorTargetAssemblyInfo.cache
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\FundoNoteApplication.csproj.CopyComplete
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\FundoNoteApplication.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\FundoNoteApplication.pdb
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\obj\Debug\netcoreapp3.1\FundoNoteApplication.genruntimeconfig.cache
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.TeamFoundation.Common.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.Common.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.WebApi.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\NLog.config
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\NLog.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\CFP\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\NLog.config
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\FundoNoteApplication.exe
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\FundoNoteApplication.deps.json
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\FundoNoteApplication.runtimeconfig.json
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\FundoNoteApplication.runtimeconfig.dev.json
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\FundoNoteApplication.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\FundoNoteApplication.pdb
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Experimental.System.Messaging.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -182,6 +126,8 @@ D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
@@ -190,18 +136,32 @@ D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.TeamFoundation.Common.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.Common.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.WebApi.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\NLog.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
@@ -220,6 +180,9 @@ D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\FundoNoteApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

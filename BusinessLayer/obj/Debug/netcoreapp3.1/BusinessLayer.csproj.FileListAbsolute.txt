@@ -13,21 +13,6 @@ D:\CFP\FundoNoteApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.
 D:\CFP\FundoNoteApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
 D:\CFP\FundoNoteApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
 D:\CFP\FundoNoteApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
-C:\Users\Dhanashree\Downloads\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
 D:\Pene4\FundoNoteApplication (3)\FundoNoteApplication\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb

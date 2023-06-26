@@ -42,6 +42,20 @@ namespace FundoNoteApplication
             services.AddTransient<IUserDL, UserDL>();
             services.AddTransient<INotesBL, NotesBL>();
             services.AddTransient<INotesDL, NotesDL>();
+            services.AddTransient<ICollabBL, CollabBL>();
+            services.AddTransient<ICollaboratorDL, CollaboratorDL>();
+            services.AddTransient<ILabelBL, LabelBL>();
+            services.AddTransient<ILableDL, LabelDL>();
+            services.AddLogging(loggingBuilder =>
+            {
+                loggingBuilder.AddConsole();
+                loggingBuilder.AddDebug();
+            });
+            services.AddStackExchangeRedisCache(options =>
+            {
+                options.Configuration = "localhost:6379";
+            });
+            services.AddMemoryCache();
             //ReadSettings
             var appSettingsSection = Configuration.GetSection("JwtConfig");
             //services.Configure<JwtConfig>(appSettingsSection);

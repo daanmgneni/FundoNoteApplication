@@ -18,6 +18,7 @@ namespace DataLayer.DB
         public bool IsArchive { get; set; }
         public bool IsPin { get; set; }
         public bool IsTrash { get; set; }
+     
         [ForeignKey("UserTable")]
         public long UserId { get; set; }
         public virtual UserEntity user { get; set; }

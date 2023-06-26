@@ -3,8 +3,10 @@ using CommonLayer.Models;
 using DataLayer.DB;
 using DataLayer.Interface;
 using DataLayer.Service;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Text;
 
 namespace BusinessLayer.Service
@@ -109,6 +111,41 @@ namespace BusinessLayer.Service
             }
             catch (Exception)
             {
+                throw;
+            }
+        }
+        public string Imaged(long NoteID, IFormFile image)
+        {
+            try
+            {
+                return this.NotesDL.Imaged(NoteID, image);
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+        public IEnumerable<NotesEntity> Search(string query)
+        {
+            try
+            {
+                return this.NotesDL.Search(query);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+        public List<NotesEntity> GetAllNote()
+        {
+            try
+            {
+                return this.NotesDL.GetAllNote();
+            }
+            catch (Exception)
+            {
+
                 throw;
             }
         }
