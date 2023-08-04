@@ -39,7 +39,7 @@ namespace CommonLayer.Models
                     Credentials = new NetworkCredential("dhanesh.m.india@gmail.com", "gtbrecwcqpjefdhu"),
                     EnableSsl = true
                 };
-                smtp.Send("Azarhulkgo@gmail.com", "dhanesh.m.india@gmail.com", subject, body);
+                smtp.Send("dhanesh.m.india@gmail.com@gmail.com", "dhanesh.m.india@gmail.com", subject, body);
                 msgQueue.BeginReceive();
             }
             catch (Exception)
